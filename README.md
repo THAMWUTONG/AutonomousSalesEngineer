@@ -20,7 +20,7 @@ All dependencies are listed in `requirements.txt`. Key libraries:
 
 | Library | Purpose |
 |---|---|
-| `google-genai` | Gemini 2.5 Flash LLM and tool calling |
+| `google-genai` | Gemini 3.1 Flash LLM Lite and tool calling |
 | `tavily-python` | Web search for real product results |
 | `fpdf2` | PDF quote generation |
 | `streamlit` | Web UI |
@@ -44,7 +44,7 @@ You will need two free API keys before running this project:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/sales-agent.git](https://github.com/THAMWUTONG/AutonomousSalesEngineer
+git clone https://github.com/THAMWUTONG/AutonomousSalesEngineer
 cd AutonomousSalesEngineer
 ```
 
